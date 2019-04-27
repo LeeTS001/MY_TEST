@@ -1,0 +1,208 @@
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing BlpImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing BmpImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing BufrStubImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing CurImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing DcxImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing DdsImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing EpsImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing FitsStubImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing FliImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing FpxImagePlugin
+2019-04-21 16:59:07 Image.py init [line:420] DEBUG :Image: failed to import FpxImagePlugin: No module named 'olefile'
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing FtexImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing GbrImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing GifImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing GribStubImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing Hdf5StubImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing IcnsImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing IcoImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing ImImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing ImtImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing IptcImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing JpegImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing Jpeg2KImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing McIdasImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing MicImagePlugin
+2019-04-21 16:59:07 Image.py init [line:420] DEBUG :Image: failed to import MicImagePlugin: No module named 'olefile'
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing MpegImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing MpoImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing MspImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing PalmImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing PcdImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing PcxImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing PdfImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing PixarImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing PngImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing PpmImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing PsdImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing SgiImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing SpiderImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing SunImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing TgaImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing TiffImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing WebPImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing WmfImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing XbmImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing XpmImagePlugin
+2019-04-21 16:59:07 Image.py init [line:417] DEBUG :Importing XVThumbImagePlugin
+2019-04-21 17:07:18 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 17:07:18 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /loginAjax HTTP/1.1" 404 2281
+2019-04-21 17:09:23 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 17:09:23 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /loginAjax HTTP/1.1" 404 2281
+2019-04-21 17:10:00 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 17:10:00 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /loginAjax HTTP/1.1" 404 2281
+2019-04-21 17:10:13 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 17:10:13 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /loginAjax HTTP/1.1" 404 2281
+2019-04-21 17:16:11 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 17:16:11 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test HTTP/1.1" 500 None
+2019-04-21 17:16:29 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 17:16:29 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test HTTP/1.1" 500 None
+2019-04-21 17:18:02 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 17:18:02 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test HTTP/1.1" 500 None
+2019-04-21 17:19:18 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 17:19:18 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test HTTP/1.1" 500 None
+2019-04-21 17:20:17 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 17:20:17 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test HTTP/1.1" 500 None
+2019-04-21 17:20:42 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 17:20:42 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test HTTP/1.1" 500 None
+2019-04-21 17:21:28 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 17:21:28 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test HTTP/1.1" 500 None
+2019-04-21 17:22:22 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 17:22:22 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test HTTP/1.1" 500 None
+2019-04-21 17:22:40 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 17:22:40 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test HTTP/1.1" 500 None
+2019-04-21 17:23:04 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 17:23:04 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test HTTP/1.1" 500 None
+2019-04-21 17:23:41 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 17:23:41 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test HTTP/1.1" 500 None
+2019-04-21 17:24:33 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 17:24:33 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test/ HTTP/1.1" 200 61
+2019-04-21 17:24:33 request_module.py get_response [line:42] INFO :接口调取成功，返回结果{'status': 200, 'msg': 'success', 'data': {'method': 'POST'}}
+2019-04-21 17:25:13 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 17:25:13 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test HTTP/1.1" 500 None
+2019-04-21 17:25:49 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 17:25:49 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test HTTP/1.1" 500 None
+2019-04-21 17:27:36 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 17:27:36 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test/ HTTP/1.1" 200 61
+2019-04-21 17:27:36 request_module.py get_response [line:42] INFO :接口调取成功，返回结果{'status': 200, 'msg': 'success', 'data': {'method': 'POST'}}
+2019-04-21 17:28:21 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 17:28:21 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test/ HTTP/1.1" 200 61
+2019-04-21 17:28:21 request_module.py get_response [line:42] INFO :接口调取成功，返回结果{'status': 200, 'msg': 'success', 'data': {'method': 'POST'}}
+2019-04-21 17:29:15 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 17:29:15 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test/ HTTP/1.1" 200 61
+2019-04-21 17:29:15 request_module.py get_response [line:42] INFO :接口调取成功，返回结果{'status': 200, 'msg': 'success', 'data': {'method': 'POST'}}
+2019-04-21 17:29:15 excel_handle.py get_case_response [line:69] INFO :{'status': 200, 'msg': 'success', 'data': {'method': 'POST'}}
+2019-04-21 17:29:40 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 17:29:40 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test/ HTTP/1.1" 200 61
+2019-04-21 17:29:40 request_module.py get_response [line:39] INFO :接口调取成功，返回结果{'status': 200, 'msg': 'success', 'data': {'method': 'POST'}}
+2019-04-21 17:29:40 excel_handle.py get_case_response [line:69] INFO :{'status': 200, 'msg': 'success', 'data': {'method': 'POST'}}
+2019-04-21 18:53:45 unittest_module.py run_and_report [line:23] INFO :开始执行测试套件
+2019-04-21 18:53:45 unittest_module.py run_and_report [line:28] INFO :测试套件执行结束
+2019-04-21 18:54:39 unittest_module.py run_and_report [line:23] INFO :开始执行测试套件
+2019-04-21 18:54:39 unittest_module.py run_and_report [line:28] INFO :测试套件执行结束
+2019-04-21 18:56:50 unittest_module.py run_and_report [line:23] INFO :开始执行测试套件
+2019-04-21 18:56:50 unittest_module.py run_and_report [line:28] INFO :测试套件执行结束
+2019-04-21 18:59:24 unittest_module.py run_and_report [line:23] INFO :开始执行测试套件
+2019-04-21 18:59:24 test_case_myself.py setUp [line:22] INFO :----------case Start----------
+2019-04-21 18:59:24 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 18:59:24 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test/ HTTP/1.1" 200 61
+2019-04-21 18:59:24 request_module.py get_response [line:39] INFO :接口调取成功，返回结果{'status': 200, 'msg': 'success', 'data': {'method': 'POST'}}
+2019-04-21 18:59:24 excel_handle.py get_case_response [line:69] INFO :{'status': 200, 'msg': 'success', 'data': {'method': 'POST'}}
+2019-04-21 18:59:24 test_case_myself.py tearDown [line:25] INFO :----------case Finish----------
+2019-04-21 18:59:24 unittest_module.py run_and_report [line:28] INFO :测试套件执行结束
+2019-04-21 19:00:28 unittest_module.py run_and_report [line:23] INFO :开始执行测试套件
+2019-04-21 19:00:28 test_case_myself.py setUp [line:22] INFO :----------case Start----------
+2019-04-21 19:00:28 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 19:00:28 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test/ HTTP/1.1" 200 61
+2019-04-21 19:00:28 request_module.py get_response [line:39] INFO :接口调取成功，返回结果{'status': 200, 'msg': 'success', 'data': {'method': 'POST'}}
+2019-04-21 19:00:28 excel_handle.py get_case_response [line:69] INFO :{'status': 200, 'msg': 'success', 'data': {'method': 'POST'}}
+2019-04-21 19:00:28 test_case_myself.py tearDown [line:25] INFO :----------case Finish----------
+2019-04-21 19:00:28 unittest_module.py run_and_report [line:28] INFO :测试套件执行结束
+2019-04-21 19:01:59 unittest_module.py run_and_report [line:23] INFO :开始执行测试套件
+2019-04-21 19:01:59 test_case_myself.py setUp [line:22] INFO :----------case Start----------
+2019-04-21 19:01:59 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 19:01:59 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test/ HTTP/1.1" 200 61
+2019-04-21 19:01:59 request_module.py get_response [line:39] INFO :接口调取成功，返回结果{'status': 200, 'msg': 'success', 'data': {'method': 'POST'}}
+2019-04-21 19:01:59 excel_handle.py get_case_response [line:69] INFO :{'status': 200, 'msg': 'success', 'data': {'method': 'POST'}}
+2019-04-21 19:01:59 test_case_myself.py tearDown [line:25] INFO :----------case Finish----------
+2019-04-21 19:01:59 unittest_module.py run_and_report [line:28] INFO :测试套件执行结束
+2019-04-21 19:06:20 unittest_module.py run_and_report [line:23] INFO :开始执行测试套件
+2019-04-21 19:06:20 test_case_myself.py setUp [line:22] INFO :----------case Start----------
+2019-04-21 19:06:20 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 19:06:20 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test/ HTTP/1.1" 200 61
+2019-04-21 19:06:20 request_module.py get_response [line:39] INFO :接口调取成功，返回结果{'status': 200, 'msg': 'success', 'data': {'method': 'POST'}}
+2019-04-21 19:06:20 excel_handle.py get_case_response [line:69] INFO :{'status': 200, 'msg': 'success', 'data': {'method': 'POST'}}
+2019-04-21 19:06:20 test_case_myself.py tearDown [line:25] INFO :----------case Finish----------
+2019-04-21 19:06:20 unittest_module.py run_and_report [line:28] INFO :测试套件执行结束
+2019-04-21 19:06:20 email_module.py send_email [line:41] INFO :邮件服务器链接成功
+2019-04-21 19:06:20 email_module.py send_email [line:43] INFO :邮箱登录成功
+2019-04-21 19:06:21 email_module.py send_email [line:45] INFO :邮件发送成功
+2019-04-21 19:07:54 unittest_module.py run_and_report [line:23] INFO :开始执行测试套件
+2019-04-21 19:07:54 test_case_myself.py setUp [line:22] INFO :----------case Start----------
+2019-04-21 19:07:54 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 19:07:54 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test/ HTTP/1.1" 200 61
+2019-04-21 19:07:54 request_module.py get_response [line:39] INFO :接口调取成功，返回结果{'status': 200, 'msg': 'success', 'data': {'method': 'POST'}}
+2019-04-21 19:07:54 excel_handle.py get_case_response [line:69] INFO :{'status': 200, 'msg': 'success', 'data': {'method': 'POST'}}
+2019-04-21 19:07:54 test_case_myself.py tearDown [line:25] INFO :----------case Finish----------
+2019-04-21 19:07:54 unittest_module.py run_and_report [line:28] INFO :测试套件执行结束
+2019-04-21 19:07:55 email_module.py send_email [line:41] INFO :邮件服务器链接成功
+2019-04-21 19:07:55 email_module.py send_email [line:43] INFO :邮箱登录成功
+2019-04-21 19:07:56 email_module.py send_email [line:45] INFO :邮件发送成功
+2019-04-21 19:09:22 unittest_module.py run_and_report [line:23] INFO :开始执行测试套件
+2019-04-21 19:09:22 test_case_myself.py setUp [line:22] INFO :----------case Start----------
+2019-04-21 19:09:22 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 19:09:22 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test/ HTTP/1.1" 200 61
+2019-04-21 19:09:22 request_module.py get_response [line:39] INFO :接口调取成功，返回结果{'status': 200, 'msg': 'success', 'data': {'method': 'POST'}}
+2019-04-21 19:09:22 excel_handle.py get_case_response [line:69] INFO :{'status': 200, 'msg': 'success', 'data': {'method': 'POST'}}
+2019-04-21 19:09:22 test_case_myself.py tearDown [line:25] INFO :----------case Finish----------
+2019-04-21 19:09:22 unittest_module.py run_and_report [line:28] INFO :测试套件执行结束
+2019-04-21 19:09:22 email_module.py send_email [line:41] INFO :邮件服务器链接成功
+2019-04-21 19:09:22 email_module.py send_email [line:43] INFO :邮箱登录成功
+2019-04-21 19:09:23 email_module.py send_email [line:45] INFO :邮件发送成功
+2019-04-21 19:11:19 email_module.py send_email [line:41] INFO :邮件服务器链接成功
+2019-04-21 19:11:19 email_module.py send_email [line:43] INFO :邮箱登录成功
+2019-04-21 19:11:21 email_module.py send_email [line:45] INFO :邮件发送成功
+2019-04-21 19:13:51 unittest_module.py run_and_report [line:23] INFO :开始执行测试套件
+2019-04-21 19:13:51 test_case_myself.py setUp [line:22] INFO :----------case Start----------
+2019-04-21 19:13:51 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 19:13:51 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test/ HTTP/1.1" 200 61
+2019-04-21 19:13:51 request_module.py get_response [line:39] INFO :接口调取成功，返回结果{'status': 200, 'msg': 'success', 'data': {'method': 'POST'}}
+2019-04-21 19:13:51 excel_handle.py get_case_response [line:69] INFO :{'status': 200, 'msg': 'success', 'data': {'method': 'POST'}}
+2019-04-21 19:13:51 test_case_myself.py tearDown [line:25] INFO :----------case Finish----------
+2019-04-21 19:13:51 unittest_module.py run_and_report [line:28] INFO :测试套件执行结束
+2019-04-21 19:13:51 email_module.py send_email [line:42] INFO :邮件服务器链接成功
+2019-04-21 19:13:51 email_module.py send_email [line:44] INFO :邮箱登录成功
+2019-04-21 19:13:53 email_module.py send_email [line:46] INFO :邮件发送成功
+2019-04-21 19:15:29 unittest_module.py run_and_report [line:23] INFO :开始执行测试套件
+2019-04-21 19:15:29 test_case_myself.py setUp [line:22] INFO :----------case Start----------
+2019-04-21 19:15:29 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 19:15:29 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test/ HTTP/1.1" 200 61
+2019-04-21 19:15:29 request_module.py get_response [line:39] INFO :接口调取成功，返回结果{'status': 200, 'msg': 'success', 'data': {'method': 'POST'}}
+2019-04-21 19:15:29 excel_handle.py get_case_response [line:69] INFO :{'status': 200, 'msg': 'success', 'data': {'method': 'POST'}}
+2019-04-21 19:15:29 test_case_myself.py tearDown [line:25] INFO :----------case Finish----------
+2019-04-21 19:15:29 unittest_module.py run_and_report [line:28] INFO :测试套件执行结束
+2019-04-21 19:15:30 email_module.py send_email [line:42] INFO :邮件服务器链接成功
+2019-04-21 19:15:30 email_module.py send_email [line:44] INFO :邮箱登录成功
+2019-04-21 19:15:31 email_module.py send_email [line:46] INFO :邮件发送成功
+2019-04-21 19:16:58 unittest_module.py run_and_report [line:23] INFO :开始执行测试套件
+2019-04-21 19:16:58 test_case_myself.py setUp [line:22] INFO :----------case Start----------
+2019-04-21 19:16:58 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 19:16:58 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test/ HTTP/1.1" 200 61
+2019-04-21 19:16:58 request_module.py get_response [line:39] INFO :接口调取成功，返回结果{'status': 200, 'msg': 'success', 'data': {'method': 'POST'}}
+2019-04-21 19:16:58 excel_handle.py get_case_response [line:69] INFO :{'status': 200, 'msg': 'success', 'data': {'method': 'POST'}}
+2019-04-21 19:16:58 test_case_myself.py tearDown [line:25] INFO :----------case Finish----------
+2019-04-21 19:16:58 unittest_module.py run_and_report [line:28] INFO :测试套件执行结束
+2019-04-21 19:16:58 email_module.py send_email [line:43] INFO :邮件服务器链接成功
+2019-04-21 19:16:58 email_module.py send_email [line:45] INFO :邮箱登录成功
+2019-04-21 19:16:59 email_module.py send_email [line:47] INFO :邮件发送成功
+2019-04-21 19:19:09 unittest_module.py run_and_report [line:23] INFO :开始执行测试套件
+2019-04-21 19:19:09 test_case_myself.py setUp [line:22] INFO :----------case Start----------
+2019-04-21 19:19:09 connectionpool.py _new_conn [line:205] DEBUG :Starting new HTTP connection (1): 127.0.0.1:8081
+2019-04-21 19:19:09 connectionpool.py _make_request [line:393] DEBUG :http://127.0.0.1:8081 "POST /test/ HTTP/1.1" 200 61
+2019-04-21 19:19:09 request_module.py get_response [line:39] INFO :接口调取成功，返回结果{'status': 200, 'msg': 'success', 'data': {'method': 'POST'}}
+2019-04-21 19:19:09 excel_handle.py get_case_response [line:69] INFO :{'status': 200, 'msg': 'success', 'data': {'method': 'POST'}}
+2019-04-21 19:19:09 test_case_myself.py tearDown [line:25] INFO :----------case Finish----------
+2019-04-21 19:19:09 unittest_module.py run_and_report [line:28] INFO :测试套件执行结束
+2019-04-21 19:19:12 email_module.py send_email [line:43] INFO :邮件服务器链接成功
+2019-04-21 19:19:12 email_module.py send_email [line:45] INFO :邮箱登录成功
+2019-04-21 19:19:13 email_module.py send_email [line:47] INFO :邮件发送成功

@@ -1,0 +1,75 @@
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing BlpImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing BmpImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing BufrStubImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing CurImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing DcxImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing DdsImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing EpsImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing FitsStubImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing FliImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing FpxImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 420] Image: failed to import FpxImagePlugin: No module named 'olefile'
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing FtexImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing GbrImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing GifImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing GribStubImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing Hdf5StubImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing IcnsImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing IcoImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing ImImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing ImtImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing IptcImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing JpegImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing Jpeg2KImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing McIdasImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing MicImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 420] Image: failed to import MicImagePlugin: No module named 'olefile'
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing MpegImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing MpoImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing MspImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing PalmImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing PcdImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing PcxImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing PdfImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing PixarImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing PngImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing PpmImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing PsdImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing SgiImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing SpiderImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing SunImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing TgaImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing TiffImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing WebPImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing WmfImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing XbmImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing XpmImagePlugin
+[2019-04-20 16:18:43] DEBUG [init: Image.py, 417] Importing XVThumbImagePlugin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
